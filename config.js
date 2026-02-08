@@ -73,8 +73,7 @@ const CONFIG = {
         heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
-    // Background Music (Optional)
-    // Add your own music URL after getting proper licenses
+   
    
     }
 };
