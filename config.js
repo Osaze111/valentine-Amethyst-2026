@@ -2,25 +2,21 @@
 // 💝 Happy Valentines Day My Love 💝
 // ============================================
 
-const CONFIG = {
-    // Your Valentine's name that will appear in the title
-    // Example: "Jade", "Sarah", "Mike"
+const CONFIG = { 
+
     valentineName: // "Amethyst", 
 
-    // The title that appears in the browser tab
-    // You can use emojis! 💝 💖 💗 💓 💞 💕
+   💝 💖 💗 💓 💞 💕
     pageTitle: "Will You Be My Valentine? 💝",
 
-    // Floating emojis that appear in the background
-    // Find more emojis at: https://emojipedia.org
+   
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
-    // Questions and answers
-    // Customize each question and its possible responses
-    questions: {
+   
+    questions: { Do you like me? ,
         first: {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
